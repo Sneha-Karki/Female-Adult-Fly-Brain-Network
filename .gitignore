@@ -1,0 +1,38 @@
+# Large research datasets
+Data/
+data/
+*.parquet
+*.csv.gz
+*.bin
+
+# Local environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# System / editor
+.DS_Store
+.vscode/
+# Large datasets
+Data/
+*.parquet
+*.csv.gz
+*.bin
+
+# Dependencies and temporary files
+node_modules/
+dist/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+__MACOSX/
+.DS_Store
+._*
